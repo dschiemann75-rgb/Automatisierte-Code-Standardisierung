@@ -4,7 +4,7 @@ Ein automatisiertes Software-Werkzeug zur Einhaltung von Corporate-Coding-Standa
 
 
 ## 📋 Problemstellung
-Bei der Nutzung von KI-gestützten Code-Generatoren (LLMs) entstehen häufig stilistische Inkonsistenzen, redundante Kommentare ("KI-Fingerabdruck") und Abweichungen von unternehmensinternen Styleguides. Dies erhöht den manuellen Review- und Wartungsaufwand bei der Code-Integration.
+Bei der Nutzung von KI-gestützten Code-Generatoren wie GitHub Copilot, Cursor AI, Claude Code und Lovable entstehen häufig stilistische Inkonsistenzen, redundante Kommentare ("KI-Fingerabdruck") und Abweichungen von unternehmensinternen Styleguides. Dies erhöht den manuellen Review- und Wartungsaufwand bei der Code-Integration.
 
 ## 🎯 Zielsetzung
 Entwicklung einer Python-Anwendung, die als Qualitätssicherungs-Werkzeug (Sanitizer) fungiert. Das Tool trennt Programmlogik von linguistischen Elementen, bereinigt Kommentare semantisch via LLM-API und passt Variablenstrukturen regelbasiert an Firmenvorgaben an.
