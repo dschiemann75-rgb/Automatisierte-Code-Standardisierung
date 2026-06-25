@@ -20,7 +20,5 @@ Entwicklung einer Python-Anwendung, die als Qualitätssicherungs-Werkzeug (Sanit
 - [ ] **Stil-Engine:** Regelbasiertes Refactoring von Variablennamen und API-gestützte Kommentarkürzung.
 - [ ] **Validierung:** Syntaktische Überprüfung vor dem Datei-Export.
 
-
-
-
+## Autor
 - [ ] https://dynasync.de
