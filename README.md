@@ -1,6 +1,6 @@
 # Automatisierte-Code-Standardisierung
 
-Ein automatisiertes Software-Werkzeug zur Einhaltung von Corporate-Coding-Standards und Refactoring bei der Nutzung generativer KI im Rahmen der IHK-Abschlussprüfung zum Fachinformatiker für Anwendungsentwicklung.
+Ein automatisiertes Software-Werkzeug zur Einhaltung von Corporate-Coding-Standards und Refactoring bei der Nutzung generativer KI 
 
 
 ## Problemstellung
